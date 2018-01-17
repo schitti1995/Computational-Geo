@@ -1,1 +1,1 @@
-# Computational-Geo
+Computational Geometry library
